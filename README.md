@@ -1,3 +1,4 @@
+<div style="font-family: 'SimSun', monospace;"><div>
 <!-- Banner GIF centrado -->
 <p align="center">
   <img src="https://i.imgur.com/bKkXWgD.gif" width="500px" />
@@ -22,9 +23,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=Kali-Linux)
 
-## 🌍 
 
-<div style="font-family: 'SimSun', monospace;">
 
 ## 🌍 Idiomas
 
