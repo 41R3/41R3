@@ -9,18 +9,29 @@
   🔒 role: cs_student | cyber.security.enthusiast<br>
 </h3>
 
-## 🛠️ Technical Skills  
-**Proficient**  
-`C++` `Python` `JavaScript` `Node.js` `React`  
+## 🚀 Lenguajes y Tecnologías
 
-**Databases**  
-`MongoDB` `PostgreSQL` `MySQL`  
+### Programming
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Tools & Others**  
-`Kali Linux` `R`  
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-## 🌐 Languages  
-`Español` Native  
-`English` B1  
-`日本語` N5  
-`Deutsch` A1  
+## 📊 
+```text
+C++         ████████████████████░░░░ 60%
+Python      ████████████░░░░░░░░░░░░ 40%
+JavaScript  ██████░░░░░░░░░░░░░░░░░░ 20%
+SQL         █████████░░░░░░░░░░░░░░░ 35%
+
+## Languages
+Español    █████████████████████████ 100% (Nativo)
+English    ████████████░░░░░░░░░░░░░ 50% (B1)
+日本語     ████░░░░░░░░░░░░░░░░░░░░░ 15% (N5)
+Deutsch    ██░░░░░░░░░░░░░░░░░░░░░░ 10% (A1)
