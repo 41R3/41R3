@@ -24,7 +24,15 @@
 
 ## 🌍 
 
-![Spanish](https://img.shields.io/b/-Español-000?&logo=google-translate&logoColor=white&labelColor=4285F4&label=Nativo)
-![English](https://img.shields.io/b/-English-000?&logo=google-translate&logoColor=white&labelColor=34A853&label=B1)
-![Japanese](https://img.shields.io/b/-日本語-000?&logo=google-translate&logoColor=white&labelColor=EA4335&label=N5)
-![German](https://img.shields.io/b/-Deutsch-000?&logo=google-translate&logoColor=white&labelColor=FBBC05&label=A1)
+<div style="font-family: 'SimSun', monospace;">
+
+## 🌍 Idiomas
+
+| Idioma   | Nivel  | Icono                          |
+|----------|--------|--------------------------------|
+| Español  | Nativo | 🇪🇸 `Nativo`                   |
+| English  | B1     | 🇬🇧 `B1 (Intermediate)`        |
+| 日本語   | N5     | 🇯🇵 `JLPT N5 (Basic)`          |
+| Deutsch  | A1     | 🇩🇪 `A1 (Beginner)`            |
+
+</div>
