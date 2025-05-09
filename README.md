@@ -9,29 +9,24 @@
   🔒 role: cs_student | cyber.security.enthusiast<br>
 </h3>
 
-## 🚀 Lenguajes y Tecnologías
-
 ### Programming
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="background: #1E1E1E; padding: 10px 15px; border-radius: 5px; font-family: 'Roboto', sans-serif;">C++</div>
+  <div style="background: #1E1E1E; padding: 10px 15px; border-radius: 5px; font-family: 'Roboto', sans-serif;">Python</div>
+  <div style="background: #1E1E1E; padding: 10px 15px; border-radius: 5px; font-family: 'Roboto', sans-serif;">JavaScript</div>
+  <div style="background: #1E1E1E; padding: 10px 15px; border-radius: 5px; font-family: 'Roboto', sans-serif;">R</div>
+</div>
 
 ### Databases & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <div style="background: #1E1E1E; padding: 10px 15px; border-radius: 5px; font-family: 'Roboto', sans-serif;">MongoDB</div>
+  <div style="background: #1E1E1E; padding: 10px 15px; border-radius: 5px; font-family: 'Roboto', sans-serif;">PostgreSQL</div>
+  <div style="background: #1E1E1E; padding: 10px 15px; border-radius: 5px; font-family: 'Roboto', sans-serif;">MySQL</div>
+  <div style="background: #1E1E1E; padding: 10px 15px; border-radius: 5px; font-family: 'Roboto', sans-serif;">Kali Linux</div>
+</div>
 
-## 📊 
+## 📊 Stats (Editable Manualmente)
 ```text
-C++         ████████████████████░░░░ 60%
-Python      ████████████░░░░░░░░░░░░ 40%
-JavaScript  ██████░░░░░░░░░░░░░░░░░░ 20%
-SQL         █████████░░░░░░░░░░░░░░░ 35%
-
-## Languages
-Español    █████████████████████████ 100% (Nativo)
-English    ████████████░░░░░░░░░░░░░ 50% (B1)
-日本語     ████░░░░░░░░░░░░░░░░░░░░░ 15% (N5)
-Deutsch    ██░░░░░░░░░░░░░░░░░░░░░░ 10% (A1)
+C++         [██████████∙∙∙∙∙∙∙∙∙∙] 60% 
+Python      [███████∙∙∙∙∙∙∙∙∙∙∙∙∙] 40%
+JavaScript  [███∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙] 20%
