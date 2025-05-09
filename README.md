@@ -1,9 +1,4 @@
 <div style="font-family: 'SimSun', 'MS Gothic', monospace;">
-<style>
-  body, table, div, h1, h3 {
-    font-family: 'SimSun', 'MS Gothic', monospace !important;
-  }
-</style>
 
 <!-- Banner GIF centrado -->
 <p align="center">
