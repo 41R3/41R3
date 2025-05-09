@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/LKmOz9x.gif)
+<img src="https://i.imgur.com/LKmOz9x.gif" alt="Banner" style="width:100%;" />
 
 
 
