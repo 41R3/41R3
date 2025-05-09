@@ -9,20 +9,18 @@
   🔒 role: cs_student | cyber.security.enthusiast<br>
 </h3>
 
-##SKILLS
-![Top Languages](https://img.shields.io/badge/C++-50%25-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-30%25-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+## 🛠️ Technical Skills  
+**Proficient**  
+`C++` `Python` `JavaScript` `Node.js` `React`  
 
-##LANGUAGES
-![Español](https://img.shields.io/badge/Español-Nativo-FF6600?style=flat)
-![English](https://img.shields.io/badge/English-B1-0066CC?style=flat)
-![Japanese](https://img.shields.io/badge/日本語-N5-FF0000?style=flat)
-![Deutsch](https://img.shields.io/badge/Deutsch-A1-000000?style=flat)
+**Databases**  
+`MongoDB` `PostgreSQL` `MySQL`  
+
+**Tools & Others**  
+`Kali Linux` `R`  
+
+## 🌐 Languages  
+`Español` Native  
+`English` B1  
+`日本語` N5  
+`Deutsch` A1  
