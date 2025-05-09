@@ -1,6 +1,6 @@
 <!-- Banner GIF centrado -->
 <p align="center">
-  <img src="https://i.imgur.com/LKmOz9x.gif" width="1000px" />
+  <img src="https://i.imgur.com/bKkXWgD.gif" width="500px" />
 </p>
 
 <h1 align="center"> greetings = ["¡Hola!", "Hello", "こんにちは", "Hallo", "你好"]</h1>
