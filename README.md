@@ -1,4 +1,9 @@
 <div style="font-family: 'SimSun', 'MS Gothic', monospace;">
+<style>
+  body, table, div, h1, h3 {
+    font-family: 'SimSun', 'MS Gothic', monospace !important;
+  }
+</style>
 
 <!-- Banner GIF centrado -->
 <p align="center">
@@ -11,7 +16,7 @@
   👾 cs_student | cyber.security.enthusiast<br>
 </h3>
 
-## 🔧 Tech Stack
+## 🔧 
 
 <div align="center" style="margin: 15px 0;">
 
@@ -28,7 +33,7 @@
 
 </div>
 
-## 🌍 Language Proficiency
+## 🌍 
 
 <table align="center">
   <tr>
