@@ -45,8 +45,8 @@
   </tr>
   <tr>
     <td>English</td>
-    <td>B1</td>
-    <td>🇬🇧 <code>B1 (Intermediate)</code></td>
+    <td>B2</td>
+    <td>🇬🇧 <code>B2 (Upper - Intermediate)</code></td>
   </tr>
   <tr>
     <td>日本語</td>
