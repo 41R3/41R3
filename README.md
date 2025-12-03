@@ -30,34 +30,4 @@
 
 </div>
 
-## 🌍 
-
-<table align="center">
-  <tr>
-    <th>Idioma</th>
-    <th>Nivel</th>
-    <th>Icono</th>
-  </tr>
-  <tr>
-    <td>Español</td>
-    <td>Nativo</td>
-    <td>🇪🇸 <code>Nativo</code></td>
-  </tr>
-  <tr>
-    <td>English</td>
-    <td>B2</td>
-    <td>🇬🇧 <code>B2 (Upper - Intermediate)</code></td>
-  </tr>
-  <tr>
-    <td>日本語</td>
-    <td>N5</td>
-    <td>🇯🇵 <code>JLPT N5</code></td>
-  </tr>
-  <tr>
-    <td>Deutsch</td>
-    <td>A1</td>
-    <td>🇩🇪 <code>A1 (Beginner)</code></td>
-  </tr>
-</table>
-
 </div>
