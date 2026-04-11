@@ -1,36 +1,18 @@
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center">
+
+  <img src="https://i.imgur.com/bKkXWgD.gif" width="500" alt="Cybersecurity Banner" />
   
-  <img src="https://i.imgur.com/bKkXWgD.gif" width="500px" style="border-radius: 10px;" />
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C26F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+4er1" alt="Typing SVG" />
+  </a>
 
   <br>
 
-  <h2 align="center">Computer Science Student | Cybersecurity Enthusiast</h2>
-  <p align="center">
-    Seeking Internships & Early Career Opportunities
-  </p>
-
-  <div style="margin-top: 20px;">
-    <img src="https://img.shields.io/badge/-C++-000?style=flat-square&logo=c%2b%2b&logoColor=00599C"/>
-    <img src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=Rust&logoColor=DEA584"/>
-    <img src="https://img.shields.io/badge/-Go-000?style=flat-square&logo=Go&logoColor=00ADD8"/>
-    
-    <span> | </span>
-
-    <img src="https://img.shields.io/badge/-Kali_Linux-000?style=flat-square&logo=Kali-Linux"/>
-    
-    <span> | </span>
-
-    <img src="https://img.shields.io/badge/-DevOps-000?style=flat-square&logo=githubactions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=yellow"/>
-  </div>
-
-  <br>
-
-  <div style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge">
-    <img src="https://img.shields.io/badge/German-Learning-orange?style=for-the-badge">
-  </div>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
-
-
